@@ -1,0 +1,151 @@
+2022-02-13 22:04:15,619  INFO [main] UsersDetailsTest:19 - start server for users details page
+2022-02-13 22:04:26,667  INFO [main] UsersDetailsTest:22 - Desire capabilities setup complete.
+2022-02-13 22:04:38,780  INFO [main] UsersDetailsTest:31 - Putting details and submit for signup
+2022-02-13 22:05:04,011  INFO [main] UsersDetailsTest:45 - Choose city and submit
+2022-02-13 22:05:05,314  INFO [main] UsersDetailsTest:54 - tap on a specific gender successfully
+2022-02-13 22:05:06,044  INFO [main] UsersDetailsTest:64 - tap on graduate text
+2022-02-13 22:05:06,822  INFO [main] UsersDetailsTest:73 - tap on school medium
+2022-02-13 22:05:07,718  INFO [main] UsersDetailsTest:82 - tap on speak english button
+2022-02-13 22:05:08,622  INFO [main] UsersDetailsTest:91 - Tap on choice fresher
+2022-02-13 22:05:16,329  INFO [main] UsersDetailsTest:100 - Scroll and tap on age section and select a age
+2022-02-13 22:05:16,331  INFO [main] UsersDetailsTest:117 - drivers close
+2022-02-15 11:37:40,052  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-02-15 11:38:05,127  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-02-15 11:38:23,503  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-02-15 11:38:24,928  INFO [main] ChooseCityTest:41 - click the submit button.
+2022-02-15 11:38:48,264  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 11:44:15,472  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-02-15 11:44:54,915  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-02-15 11:45:11,956  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-02-15 11:45:13,522  INFO [main] ChooseCityTest:41 - click the submit button.
+2022-02-15 11:45:34,028  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 11:45:54,030  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 11:46:00,316  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 11:46:06,030  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 11:46:16,790  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 11:46:16,791  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 11:46:16,792  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 11:46:31,934  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 11:46:40,423  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 11:46:46,434  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 11:46:51,827  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 11:47:02,654  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 11:47:02,657  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 11:47:02,657  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 11:47:11,313  INFO [main] UsersDetailsTest:19 - start server for users details page
+2022-02-15 11:47:21,218  INFO [main] UsersDetailsTest:22 - Desire capabilities setup complete.
+2022-02-15 11:47:33,044  INFO [main] UsersDetailsTest:31 - Putting details and submit for signup
+2022-02-15 11:47:58,161  INFO [main] UsersDetailsTest:45 - Choose city and submit
+2022-02-15 11:47:59,617  INFO [main] UsersDetailsTest:54 - tap on a specific gender successfully
+2022-02-15 11:48:00,485  INFO [main] UsersDetailsTest:64 - tap on graduate text
+2022-02-15 11:48:01,279  INFO [main] UsersDetailsTest:73 - tap on school medium
+2022-02-15 11:48:02,146  INFO [main] UsersDetailsTest:82 - tap on speak english button
+2022-02-15 11:48:02,964  INFO [main] UsersDetailsTest:91 - Tap on choice fresher
+2022-02-15 11:48:11,012  INFO [main] UsersDetailsTest:100 - Scroll and tap on age section and select a age
+2022-02-15 11:48:11,014  INFO [main] UsersDetailsTest:117 - drivers close
+2022-02-15 11:50:49,472  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-02-15 11:51:01,383  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-02-15 11:51:12,223  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-02-15 11:51:13,050  INFO [main] ChooseCityTest:41 - click the submit button.
+2022-02-15 11:51:19,168  INFO [main] ChooseCityTest:50 - tap on Mumbai city
+2022-02-15 11:51:24,214  INFO [main] ChooseCityTest:59 - Type nearest railway station Thane
+2022-02-15 11:51:32,327  INFO [main] ChooseCityTest:70 - Hide keyboard and click on submit button
+2022-02-15 11:51:32,329  INFO [main] ChooseCityTest:81 - Successfully go to the next page.
+2022-02-15 11:51:32,329  INFO [main] ChooseCityTest:82 - Driver close.
+2022-02-15 11:51:43,606  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 11:51:53,336  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 11:51:59,077  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 11:52:04,514  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 11:52:15,252  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 11:52:15,253  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 11:52:15,253  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 11:52:25,660  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 11:52:35,082  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 11:52:40,874  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 11:52:46,227  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 11:52:57,128  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 11:52:57,130  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 11:52:57,131  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 11:53:08,381  INFO [main] UsersDetailsTest:19 - start server for users details page
+2022-02-15 11:53:17,503  INFO [main] UsersDetailsTest:22 - Desire capabilities setup complete.
+2022-02-15 11:53:29,293  INFO [main] UsersDetailsTest:31 - Putting details and submit for signup
+2022-02-15 11:53:54,620  INFO [main] UsersDetailsTest:45 - Choose city and submit
+2022-02-15 11:53:56,018  INFO [main] UsersDetailsTest:54 - tap on a specific gender successfully
+2022-02-15 11:53:56,872  INFO [main] UsersDetailsTest:64 - tap on graduate text
+2022-02-15 11:53:57,677  INFO [main] UsersDetailsTest:73 - tap on school medium
+2022-02-15 11:53:58,637  INFO [main] UsersDetailsTest:82 - tap on speak english button
+2022-02-15 11:53:59,604  INFO [main] UsersDetailsTest:91 - Tap on choice fresher
+2022-02-15 11:54:08,274  INFO [main] UsersDetailsTest:100 - Scroll and tap on age section and select a age
+2022-02-15 11:54:08,277  INFO [main] UsersDetailsTest:117 - drivers close
+2022-02-15 12:05:54,655  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-02-15 12:06:03,656  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-02-15 12:06:15,863  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-02-15 12:06:17,357  INFO [main] ChooseCityTest:41 - click the submit button.
+2022-02-15 12:06:25,315  INFO [main] ChooseCityTest:50 - tap on Mumbai city
+2022-02-15 12:06:30,648  INFO [main] ChooseCityTest:59 - Type nearest railway station Thane
+2022-02-15 12:06:38,754  INFO [main] ChooseCityTest:70 - Hide keyboard and click on submit button
+2022-02-15 12:06:38,756  INFO [main] ChooseCityTest:81 - Successfully go to the next page.
+2022-02-15 12:06:38,756  INFO [main] ChooseCityTest:82 - Driver close.
+2022-02-15 12:06:59,540  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 12:07:07,994  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 12:07:13,878  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 12:07:19,471  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 12:07:30,261  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 12:07:30,262  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 12:07:30,263  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 12:07:47,385  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 12:08:00,452  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 12:08:06,954  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 12:08:11,953  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 12:08:24,504  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 12:08:24,508  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 12:08:24,508  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 12:08:43,207  INFO [main] UsersDetailsTest:19 - start server for users details page
+2022-02-15 12:08:51,195  INFO [main] UsersDetailsTest:22 - Desire capabilities setup complete.
+2022-02-15 12:09:04,965  INFO [main] UsersDetailsTest:31 - Putting details and submit for signup
+2022-02-15 12:09:31,572  INFO [main] UsersDetailsTest:45 - Choose city and submit
+2022-02-15 12:09:33,089  INFO [main] UsersDetailsTest:54 - tap on a specific gender successfully
+2022-02-15 12:09:34,209  INFO [main] UsersDetailsTest:64 - tap on graduate text
+2022-02-15 12:09:35,067  INFO [main] UsersDetailsTest:73 - tap on school medium
+2022-02-15 12:09:35,964  INFO [main] UsersDetailsTest:82 - tap on speak english button
+2022-02-15 12:09:36,925  INFO [main] UsersDetailsTest:91 - Tap on choice fresher
+2022-02-15 12:09:45,398  INFO [main] UsersDetailsTest:100 - Scroll and tap on age section and select a age
+2022-02-15 12:09:45,400  INFO [main] UsersDetailsTest:117 - drivers close
+2022-02-15 12:12:47,970  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-02-15 12:12:56,477  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-02-15 12:13:07,728  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-02-15 12:13:08,641  INFO [main] ChooseCityTest:41 - click the submit button.
+2022-02-15 12:13:14,858  INFO [main] ChooseCityTest:50 - tap on Mumbai city
+2022-02-15 12:13:20,049  INFO [main] ChooseCityTest:59 - Type nearest railway station Thane
+2022-02-15 12:13:28,365  INFO [main] ChooseCityTest:70 - Hide keyboard and click on submit button
+2022-02-15 12:13:28,366  INFO [main] ChooseCityTest:81 - Successfully go to the next page.
+2022-02-15 12:13:28,367  INFO [main] ChooseCityTest:82 - Driver close.
+2022-02-15 12:13:47,278  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 12:13:55,720  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 12:14:01,663  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 12:14:07,127  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 12:14:17,852  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 12:14:17,854  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 12:14:17,855  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 12:14:28,739  INFO [main] SignUpTest:18 - Start server in SignUpTest
+2022-02-15 12:14:38,524  INFO [main] SignUpTest:21 - Desire capabilities setup complete
+2022-02-15 12:14:44,512  INFO [main] SignUpTest:30 - Sent a name from feature file
+2022-02-15 12:14:49,846  INFO [main] SignUpTest:39 - Sent a phone from feature file
+2022-02-15 12:15:00,698  INFO [main] SignUpTest:49 - Tap on submit button
+2022-02-15 12:15:00,701  INFO [main] SignUpTest:54 - Open a new page
+2022-02-15 12:15:00,701  INFO [main] SignUpTest:55 - Driver close
+2022-02-15 12:15:10,809  INFO [main] UsersDetailsTest:19 - start server for users details page
+2022-02-15 12:15:22,043  INFO [main] UsersDetailsTest:22 - Desire capabilities setup complete.
+2022-02-15 12:15:34,188  INFO [main] UsersDetailsTest:31 - Putting details and submit for signup
+2022-02-15 12:16:00,070  INFO [main] UsersDetailsTest:45 - Choose city and submit
+2022-02-15 12:16:01,535  INFO [main] UsersDetailsTest:54 - tap on a specific gender successfully
+2022-02-15 12:16:02,419  INFO [main] UsersDetailsTest:64 - tap on graduate text
+2022-02-15 12:16:03,226  INFO [main] UsersDetailsTest:73 - tap on school medium
+2022-02-15 12:16:04,128  INFO [main] UsersDetailsTest:82 - tap on speak english button
+2022-02-15 12:16:04,986  INFO [main] UsersDetailsTest:91 - Tap on choice fresher
+2022-02-15 12:16:13,368  INFO [main] UsersDetailsTest:100 - Scroll and tap on age section and select a age
+2022-02-15 12:16:13,371  INFO [main] UsersDetailsTest:117 - drivers close
+2022-03-10 22:02:02,380  INFO [main] ChooseCityTest:20 - open server in choose city page
+2022-03-10 22:02:17,668  INFO [main] ChooseCityTest:23 - Desire capabilities set of application
+2022-03-10 22:02:32,444  INFO [main] ChooseCityTest:32 - Enter the name and phone from feature file.
+2022-03-10 22:02:33,669  INFO [main] ChooseCityTest:41 - click the submit button.
